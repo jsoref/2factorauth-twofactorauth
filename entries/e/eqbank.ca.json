@@ -1,6 +1,6 @@
 {
   "EQ Bank": {
-    "domain": "eqbank.ca"
+    "domain": "eqbank.ca",
     "tfa": [
       "sms"
     ],
